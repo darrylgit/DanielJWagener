@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**DanielJWagener/DanielJWagener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel, a software engineer who started coding while working in South Korea. These days, I write code in and around Atlanta, GA. I enjoy working with Javascript, React, Redux, Sass, and the MERN stack. Check out my portfolio at [danieljwagener.com](https://danieljwagener.com/) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other links:
+
+[LinkedIn](https://www.linkedin.com/in/daniel-wagener-866868141/)
+
+[Twitter](https://twitter.com/wagener_daniel)
+
+[Medium](https://medium.com/@signiorgratiano)
+
+[Dev](https://dev.to/danieljwagener)
+
+
+- 🔭 I’m currently working on... an e-commerce website for an ATL startup
+- 🌱 I’m currently learning... Ruby through App Academy's [open curriculum](https://open.appacademy.io/)
+- 👯 I’m looking to collaborate on... a MERN AirBNB clone. 
+- :speech_balloon: Ask me about... Sass. It's easy and you need some in your life if you're not already using it.  
+- 📫 How to reach me: daniel.j.wagener@gmail.com
+- ⚡ Fun fact: 부산에서 4사년 동안 살았음!
