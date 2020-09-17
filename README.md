@@ -19,4 +19,4 @@ Other links:
 - 👯 I’m looking to collaborate on... a MERN AirBNB clone. 
 - :speech_balloon: Ask me about... Sass. It's easy and you need some in your life if you're not already using it.  
 - 📫 How to reach me: daniel.j.wagener@gmail.com
-- ⚡ Fun fact: 부산에서 4사년 동안 살았음!
+- ⚡ Fun fact: 부산에서 4사년 동안 살았음! (translation: I lived in Busan, South Korea for four years)
