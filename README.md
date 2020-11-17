@@ -14,8 +14,8 @@ Other links:
 [Dev](https://dev.to/danieljwagener)
 
 
-- 🔭 I’m currently working on... an e-commerce website for an ATL startup
-- 🌱 I’m currently learning... Ruby through App Academy's [open curriculum](https://open.appacademy.io/)
+- 🔭 I’m currently working on... an app for families to upload an share their Christmas/holiday lists
+- 🌱 I’m currently learning... SQL through App Academy's [open curriculum](https://open.appacademy.io/)
 - 👯 I’m looking to collaborate on... a MERN AirBNB clone. 
 - :speech_balloon: Ask me about... Sass. It's easy and you need some in your life if you're not already using it.  
 - 📫 How to reach me: daniel.j.wagener@gmail.com
